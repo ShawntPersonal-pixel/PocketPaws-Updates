@@ -1,13 +1,18 @@
 {
-  "identifier": "com.personal.pocketpaws.feed",
-  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
-  "name": "Pocket Paws Playtests",
-  "news": [],
   "apps": [
     {
-      "appPermissions": {},
-      "name": "Pocket Paws",
+      "bundleIdentifier": "com.personal.pocketpaws.game",
       "versions": [
+        {
+          "version": "1.3.3",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Playtest update to verify the new release process.",
+          "sha256": "516a079e7ce4516867a869d50372a6858e70bfa8498dd093001da02d27446f8d",
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.3/PocketPaws.ipa",
+          "buildVersion": "7",
+          "size": 489558,
+          "date": "2026-11-19T21:44:19Z"
+        },
         {
           "size": 489557,
           "date": "2026-11-19T21:23:28Z",
@@ -37,10 +42,15 @@
           "size": 375609
         }
       ],
-      "bundleIdentifier": "com.personal.pocketpaws.game",
-      "developerName": "ShawntPersonal-pixel",
+      "name": "Pocket Paws",
       "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
-      "localizedDescription": "An offline cat logic game with 3,000 puzzles."
+      "developerName": "ShawntPersonal-pixel",
+      "localizedDescription": "An offline cat logic game with 3,000 puzzles.",
+      "appPermissions": {}
     }
-  ]
+  ],
+  "news": [],
+  "identifier": "com.personal.pocketpaws.feed",
+  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
+  "name": "Pocket Paws Playtests"
 }
