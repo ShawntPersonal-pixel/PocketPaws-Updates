@@ -1,10 +1,21 @@
 {
+  "news": [],
   "identifier": "com.personal.pocketpaws.feed",
-  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
   "name": "Pocket Paws Playtests",
+  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
   "apps": [
     {
+      "appPermissions": {},
       "versions": [
+        {
+          "size": 462250,
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.1/PocketPaws.ipa",
+          "localizedDescription": "Rebalanced all 3,000 puzzles with clearer openings and layered deductions. Auto-cross out is now optional in Settings.",
+          "version": "1.3.1",
+          "date": "2026-11-19T21:10:42Z",
+          "minOSVersion": "17.0",
+          "buildVersion": "5"
+        },
         {
           "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3/PocketPaws.ipa",
           "buildVersion": "4",
@@ -15,13 +26,11 @@
           "size": 375609
         }
       ],
+      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
+      "developerName": "ShawntPersonal-pixel",
       "localizedDescription": "An offline cat logic game with 3,000 puzzles.",
       "bundleIdentifier": "com.personal.pocketpaws.game",
-      "appPermissions": {},
-      "name": "Pocket Paws",
-      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
-      "developerName": "ShawntPersonal-pixel"
+      "name": "Pocket Paws"
     }
-  ],
-  "news": []
+  ]
 }
