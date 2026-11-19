@@ -1,0 +1,30 @@
+{
+  "identifier": "com.personal.pocketpaws.feed",
+  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
+  "name": "Pocket Paws Playtests",
+  "apps": [
+    {
+      "versions": [
+        {
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3/PocketPaws.ipa",
+          "buildVersion": "4",
+          "localizedDescription": "Redesigned touch controls, a new icon, and 3,000 puzzles with clues on Hard levels.",
+          "version": "1.3",
+          "minOSVersion": "17.0",
+          "date": "2026-11-19T20:43:49Z",
+          "size": 375609
+        }
+      ],
+      "localizedDescription": "An offline cat logic game with 3,000 puzzles.",
+      "bundleIdentifier": "com.personal.pocketpaws.game",
+      "appPermissions": {
+        "privacy": {},
+        "entitlements": []
+      },
+      "name": "Pocket Paws",
+      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
+      "developerName": "ShawntPersonal-pixel"
+    }
+  ],
+  "news": []
+}
