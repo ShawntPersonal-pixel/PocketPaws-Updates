@@ -17,10 +17,7 @@
       ],
       "localizedDescription": "An offline cat logic game with 3,000 puzzles.",
       "bundleIdentifier": "com.personal.pocketpaws.game",
-      "appPermissions": {
-        "privacy": {},
-        "entitlements": []
-      },
+      "appPermissions": {},
       "name": "Pocket Paws",
       "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
       "developerName": "ShawntPersonal-pixel"
