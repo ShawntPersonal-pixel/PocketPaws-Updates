@@ -1,14 +1,21 @@
 {
-  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
-  "identifier": "com.personal.pocketpaws.feed",
-  "name": "Pocket Paws Playtests",
   "apps": [
     {
-      "bundleIdentifier": "com.personal.pocketpaws.game",
+      "localizedDescription": "Find the hidden puppies in 3,000 offline logic puzzles.",
       "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
-      "name": "Pocket Paws",
+      "bundleIdentifier": "com.personal.pocketpaws.game",
       "developerName": "ShawntPersonal-pixel",
       "versions": [
+        {
+          "buildVersion": "12",
+          "date": "2026-11-19T23:44:43Z",
+          "localizedDescription": "Meet Puppy Pockets! Find five floppy-eared pups on solid-color tiles, with a new puppy icon for your Home Screen.",
+          "sha256": "027829b6b313318382b0239fc63bb4c2e60aad960a06de77c7caf8f139c192b1",
+          "version": "1.3.8",
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.8/PocketPaws.ipa",
+          "minOSVersion": "17.0",
+          "size": 774160
+        },
         {
           "minOSVersion": "17.0",
           "sha256": "36d6044729e22e7ee6c12cbb11fc786b7cc2405b5bcd09aacb7e461d9c6b8846",
@@ -88,9 +95,12 @@
           "size": 375609
         }
       ],
-      "localizedDescription": "An offline cat logic game with 3,000 puzzles.",
+      "name": "Puppy Pockets",
       "appPermissions": {}
     }
   ],
-  "news": []
+  "news": [],
+  "name": "Puppy Pockets Playtests",
+  "identifier": "com.personal.pocketpaws.feed",
+  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json"
 }
