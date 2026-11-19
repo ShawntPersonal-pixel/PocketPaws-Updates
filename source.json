@@ -1,8 +1,24 @@
 {
+  "news": [],
+  "name": "Pocket Paws Playtests",
+  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
+  "identifier": "com.personal.pocketpaws.feed",
   "apps": [
     {
       "bundleIdentifier": "com.personal.pocketpaws.game",
+      "name": "Pocket Paws",
+      "developerName": "ShawntPersonal-pixel",
       "versions": [
+        {
+          "sha256": "d8f2e4527d46678a708af704c67b57116a807335d0fc55e7352a305c9cadd225",
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.4/PocketPaws.ipa",
+          "size": 513567,
+          "buildVersion": "8",
+          "version": "1.3.4",
+          "localizedDescription": "Three hearts per level, a restart screen after three missed cats, drawn cross-outs and a bouncy cat reveal.",
+          "date": "2026-11-19T22:15:26Z",
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.3.3",
           "minOSVersion": "17.0",
@@ -42,15 +58,9 @@
           "size": 375609
         }
       ],
-      "name": "Pocket Paws",
+      "appPermissions": {},
       "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
-      "developerName": "ShawntPersonal-pixel",
-      "localizedDescription": "An offline cat logic game with 3,000 puzzles.",
-      "appPermissions": {}
+      "localizedDescription": "An offline cat logic game with 3,000 puzzles."
     }
-  ],
-  "news": [],
-  "identifier": "com.personal.pocketpaws.feed",
-  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
-  "name": "Pocket Paws Playtests"
+  ]
 }
