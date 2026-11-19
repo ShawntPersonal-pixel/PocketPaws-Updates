@@ -1,12 +1,23 @@
 {
-  "news": [],
   "identifier": "com.personal.pocketpaws.feed",
-  "name": "Pocket Paws Playtests",
   "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
+  "name": "Pocket Paws Playtests",
+  "news": [],
   "apps": [
     {
       "appPermissions": {},
+      "name": "Pocket Paws",
       "versions": [
+        {
+          "size": 489557,
+          "date": "2026-11-19T21:23:28Z",
+          "sha256": "904ff727eed3a0a76bac7e55d3adad01537841244b8eb1207509caeca865901b",
+          "version": "1.3.2",
+          "minOSVersion": "17.0",
+          "buildVersion": "6",
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.2/PocketPaws.ipa",
+          "localizedDescription": "Five bright kitten designs, softer tiles and a quick win celebration. The next level starts automatically. Improved swipe marking and saved-game recovery; puzzle difficulty is unchanged."
+        },
         {
           "size": 462250,
           "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.1/PocketPaws.ipa",
@@ -26,11 +37,10 @@
           "size": 375609
         }
       ],
-      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
-      "developerName": "ShawntPersonal-pixel",
-      "localizedDescription": "An offline cat logic game with 3,000 puzzles.",
       "bundleIdentifier": "com.personal.pocketpaws.game",
-      "name": "Pocket Paws"
+      "developerName": "ShawntPersonal-pixel",
+      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
+      "localizedDescription": "An offline cat logic game with 3,000 puzzles."
     }
   ]
 }
