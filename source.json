@@ -1,14 +1,24 @@
 {
-  "news": [],
-  "name": "Pocket Paws Playtests",
-  "identifier": "com.personal.pocketpaws.feed",
   "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
+  "identifier": "com.personal.pocketpaws.feed",
+  "name": "Pocket Paws Playtests",
   "apps": [
     {
+      "bundleIdentifier": "com.personal.pocketpaws.game",
+      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
       "name": "Pocket Paws",
       "developerName": "ShawntPersonal-pixel",
-      "appPermissions": {},
       "versions": [
+        {
+          "minOSVersion": "17.0",
+          "sha256": "36d6044729e22e7ee6c12cbb11fc786b7cc2405b5bcd09aacb7e461d9c6b8846",
+          "size": 514812,
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.7/PocketPaws.ipa",
+          "date": "2026-11-19T23:34:40Z",
+          "version": "1.3.7",
+          "buildVersion": "11",
+          "localizedDescription": "Slimmer white strokes where the X crosses in the middle."
+        },
         {
           "date": "2026-11-19T23:24:24Z",
           "version": "1.3.6",
@@ -79,8 +89,8 @@
         }
       ],
       "localizedDescription": "An offline cat logic game with 3,000 puzzles.",
-      "bundleIdentifier": "com.personal.pocketpaws.game",
-      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png"
+      "appPermissions": {}
     }
-  ]
+  ],
+  "news": []
 }
