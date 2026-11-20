@@ -1,14 +1,22 @@
 {
-  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
-  "name": "Puppy Pockets Playtests",
-  "identifier": "com.personal.pocketpaws.feed",
-  "news": [],
   "apps": [
     {
-      "appPermissions": {},
+      "name": "Puppy Pockets",
+      "localizedDescription": "Find the hidden puppies in 3,000 offline logic puzzles.",
       "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
       "developerName": "ShawntPersonal-pixel",
+      "bundleIdentifier": "com.personal.pocketpaws.game",
       "versions": [
+        {
+          "minOSVersion": "17.0",
+          "sha256": "b3ff863cf049701cb5a38ce7e0cb8ee53bfbb98f04c20367d60f9a5ccaca36a0",
+          "date": "2026-11-20T21:56:45Z",
+          "localizedDescription": "Dark mode has more distinct tile colors at low brightness, with vivid orange, pale sand, leafy green and clearer blues. White crosses have a fine dark edge on night tiles.",
+          "buildVersion": "19",
+          "size": 1023113,
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.15/PocketPaws.ipa",
+          "version": "1.3.15"
+        },
         {
           "localizedDescription": "Hints now highlight the rows, columns, or colors to inspect. Tap Show move for the reasoning and one square to play yourself.",
           "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.14/PocketPaws.ipa",
@@ -158,9 +166,11 @@
           "size": 375609
         }
       ],
-      "localizedDescription": "Find the hidden puppies in 3,000 offline logic puzzles.",
-      "name": "Puppy Pockets",
-      "bundleIdentifier": "com.personal.pocketpaws.game"
+      "appPermissions": {}
     }
-  ]
+  ],
+  "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
+  "identifier": "com.personal.pocketpaws.feed",
+  "name": "Puppy Pockets Playtests",
+  "news": []
 }
