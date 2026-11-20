@@ -1,16 +1,22 @@
 {
   "name": "Puppy Pockets Playtests",
   "sourceURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/source.json",
-  "news": [],
   "apps": [
     {
-      "appPermissions": {},
-      "bundleIdentifier": "com.personal.pocketpaws.game",
-      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
-      "developerName": "ShawntPersonal-pixel",
       "name": "Puppy Pockets",
       "localizedDescription": "Find the hidden puppies in 3,000 offline logic puzzles.",
+      "bundleIdentifier": "com.personal.pocketpaws.game",
       "versions": [
+        {
+          "localizedDescription": "Slightly wider gaps between puzzle squares make the grid easier to read.",
+          "sha256": "35bc838e80d5cc10ccb2518b620b2646816a8d5966fea388f6fb49d855727d5a",
+          "buildVersion": "14",
+          "downloadURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/builds/1.3.10/PocketPaws.ipa",
+          "version": "1.3.10",
+          "date": "2026-11-20T00:10:31Z",
+          "minOSVersion": "17.0",
+          "size": 775972
+        },
         {
           "size": 775958,
           "version": "1.3.9",
@@ -109,8 +115,12 @@
           "date": "2026-11-19T20:43:49Z",
           "size": 375609
         }
-      ]
+      ],
+      "appPermissions": {},
+      "iconURL": "https://raw.githubusercontent.com/ShawntPersonal-pixel/PocketPaws-Updates/main/icon.png",
+      "developerName": "ShawntPersonal-pixel"
     }
   ],
-  "identifier": "com.personal.pocketpaws.feed"
+  "identifier": "com.personal.pocketpaws.feed",
+  "news": []
 }
